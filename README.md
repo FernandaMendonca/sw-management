@@ -1,4 +1,6 @@
-# sw-management
+# Star Wars Management System
+
+Project to gain knowledge about the principles of Vue.js
 
 ## Project setup
 ```
