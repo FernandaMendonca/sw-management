@@ -1,6 +1,6 @@
 # Star Wars Management System
 
-Project to gain knowledge about the principles of Vue.js
+Project to gain knowledge about the fundamentals of Vue.js
 
 ## Project setup
 ```
@@ -16,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
